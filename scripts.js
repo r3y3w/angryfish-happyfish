@@ -1,3 +1,9 @@
+
+/*
+Javascript reference : Eazy2Code
+JavaScript Change Image onclick Event
+https://www.youtube.com/watch?v=MAGWkufL9cg&list=PL5Atv2xSl6xbJx-Twu9G22YVdwWFPoAja&index=31
+*/
 function angryFish() {
     document.getElementById('img1')
     .src="https://thesoftroots.com/wp-content/uploads/2022/04/Angry-fish-coloring-pages.jpg"
